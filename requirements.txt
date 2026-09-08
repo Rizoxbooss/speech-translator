@@ -1,0 +1,6 @@
+Flask>=3.0,<4.0
+requests>=2.31
+youtube-transcript-api>=1.0.0
+yt-dlp>=2024.1.0
+gunicorn>=21.2
+pymongo>=4.6
